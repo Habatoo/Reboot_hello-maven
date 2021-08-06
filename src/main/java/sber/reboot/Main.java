@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println(StringUtils.capitalize("hello maven"));
+                System.out.println(StringUtils.capitalize("hello master maven"));
 		System.out.println(StringUtils.upperCase("Hello Maven"));
 	}
 }
