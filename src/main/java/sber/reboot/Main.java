@@ -8,5 +8,6 @@ public class Main {
 		System.out.println(StringUtils.capitalize("hello maven"));
                 System.out.println(StringUtils.capitalize("hello master maven"));
 		System.out.println(StringUtils.upperCase("Hello Maven"));
+                System.out.println(StringUtils.upperCase("Hello new Maven feature"));
 	}
 }
